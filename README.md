@@ -2,7 +2,7 @@
 
 ## Initial Page
 ![](Final%20Project%20Images/HomePage.png)
-## Selection Page Mode
+## Mode Selection Page
 ![](Final%20Project%20Images/ModeSelectionPage.png)
 ## Game Section
 ![](Final%20Project%20Images/GameSection.png)
